@@ -1,5 +1,6 @@
 # jm47
 <div align="center">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ff0000&interchange=false&profanity=false&bar_color=060a06&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+JM47;Construindo+solu%C3%A7%C3%B5es+com+foco+em+qualidade+e+inova%C3%A7%C3%A3o;Tech+%7C+Code+%7C+Performance" alt="Typing SVG" />
 
@@ -73,5 +74,5 @@ Busco unir **arquitetura limpa**, **performance** e **design moderno** para entr
 <div align="center">
 
 ### ⚡ *"Code with vision. Build with purpose."*
-
+https://spotify-github-profile.kittinanx.com
 </div>
