@@ -28,7 +28,7 @@ Busco unir **arquitetura limpa**, **performance** e **design moderno** para entr
 
 <div align="center">
 
-![Html](https://img.shields.io/badge/Html-0a0a0a?style=for-the-badge&logo=Html&logoColor=F7DF1E)
+![Html](https://img.shields.io/badge/Html-0a0a0a?style=for-the-badge&logo=Html&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=339933)
