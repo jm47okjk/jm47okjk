@@ -1,7 +1,7 @@
 # jm47 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=false&bar_color=53b14f&bar">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity">
   </a>
 </p>
 <div align="center">
