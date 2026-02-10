@@ -1,7 +1,7 @@
 # jm47 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=spotify-embed&show_offline=false&background_color=00000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
 </p>
 <div align="center">
@@ -31,6 +31,8 @@ Busco unir **arquitetura limpa**, **performance** e **design moderno** para entr
 
 ## 🚀 Stack & Ferramentas
 
+<div align="center">
+  
 ![Html](https://img.shields.io/badge/Html-0a0a0a?style=for-the-badge&logo=Html&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
