@@ -1,9 +1,16 @@
-<h1 align="center">
-  <span>jm47</span>
-  <a href="https://github.com/kittinan/spotify-github-profile" style="display: inline-block">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00121212&interchange=false&profanity=true&bar_color=0afe01&bar_color_cover=false" width="300" style="vertical-align: middle;">
-  </a>
-</h1>
+
+<table align="center" border="0">
+  <tr>
+    <td valign="center" width="50" align="right">
+      <h1>jm47</h1>
+    </td>
+    <td valign="center">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=novatorem&show_offline=false&background_color=00121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" width="350">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -34,10 +41,8 @@ Busco unir **arquitetura limpa**, **performance** e **design moderno** para entr
 
 <div align="center">
   
-![Html](https://img.shields.io/badge/Html-0a0a0a?style=for-the-badge&logo=Html&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Html](https://img.shields.io/badge/Html-0a0a0a?style=for-the-badge&logo=html5&logoColor=3178C6)![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
