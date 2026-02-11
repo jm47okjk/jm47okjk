@@ -1,8 +1,10 @@
-# jm47 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=true&bar_color=0afe01&bar_color_cover=false">
+<h1 align="center">
+  <span>jm47</span>
+  <a href="https://github.com/kittinan/spotify-github-profile" style="display: inline-block">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00121212&interchange=false&profanity=true&bar_color=0afe01&bar_color_cover=false" width="300" style="vertical-align: middle;">
   </a>
-</p>
+</h1>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+JM47;Construindo+solu%C3%A7%C3%B5es+com+foco+em+qualidade+e+inova%C3%A7%C3%A3o;Tech+%7C+Code+%7C+Performance" alt="Typing SVG" />
