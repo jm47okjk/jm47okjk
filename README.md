@@ -1,4 +1,3 @@
-
 <table align="center" border="0">
   <tr>
     <td valign="center" width="50" align="right">
@@ -13,69 +12,62 @@
 </table>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+with+purpose;A+creative+approach+to+technology;Open+source+projects+%26+hobby+tools" alt="Typing SVG" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+JM47;Construindo+solu%C3%A7%C3%B5es+com+foco+em+qualidade+e+inova%C3%A7%C3%A3o;Tech+%7C+Code+%7C+Performance" alt="Typing SVG" />
+> ### "Turning ideas into reality, one hobby project at a time."
+
+---
+
+### 🖋️ Executive Summary
+
+I am a student exploring the intersection of **functionality and design**. To me, code is a medium for building tools that solve daily friction. I focus on delivering clean, usable projects while documenting my growth as a hobbyist developer.
+
+- 🏗️ **Architecting:** Focused on clean UI and efficient logic.
+- 🔓 **Open Source:** Sharing my hobby projects to empower other builders.
+- 🚀 **Mission:** Moving from ideas to functional prototypes, one commit at a time.
+
+---
+
+### 🛠️ Toolbelt & Environment
+
+**Design & Interface**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+**Logic & Workflow**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 Performance Metrics
+
+<div align="center">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=jm47okjk&show_icons=true&theme=transparent&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&hide_border=true" alt="GitHub stats" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm47okjk&layout=compact&theme=transparent&title_color=00F7FF&text_color=ffffff&hide_border=true" alt="Top Langs" />
+</div>
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Em%20evolu%C3%A7%C3%A3o-00f7ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Software-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Perfil-Profissional-22c55e?style=for-the-badge" />
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jm47okjk&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph" />
+</div>
+
+---
+
+### 📩 Contact
+
+Whether you want to discuss a project or just talk tech, feel free to reach out through my GitHub profile or open an issue in one of my repositories.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open_for_Discussion-00F7FF?style=for-the-badge&logo=github&logoColor=000000" />
 </p>
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou apaixonado por tecnologia, desenvolvimento de software e criação de experiências digitais de alto nível.
-Busco unir **arquitetura limpa**, **performance** e **design moderno** para entregar soluções profissionais e escaláveis.
-
-> "Tecnologia com propósito: construir hoje o que faz diferença amanhã."
-
----
-
-## 🚀 Stack & Ferramentas
-
-<div align="center">
-  
-![Html](https://img.shields.io/badge/Html-0a0a0a?style=for-the-badge&logo=html5&logoColor=3178C6)![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
-
----
-
-## 📌 Objetivos
-
-- Desenvolver soluções robustas e orientadas a resultados.
-- Evoluir continuamente em boas práticas de engenharia de software.
-- Contribuir com projetos de impacto no ecossistema tech.
-
----
-
-## 📈 GitHub Insights
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jm47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm47&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-
-</div>
-
----
-
-## 🤝 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@exemplo.com)
-
-</div>
-
