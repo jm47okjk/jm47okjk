@@ -5,7 +5,7 @@
     </td>
     <td valign="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=novatorem&show_offline=false&background_color=00121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" width="600">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32kjsjxd9d9ajw2cs6kefkr6g&cover_image=true&theme=novatorem&show_offline=false&background_color=00121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" width="846">
       </a>
     </td>
   </tr>
