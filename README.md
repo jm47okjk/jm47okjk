@@ -52,8 +52,8 @@ I am a student exploring the intersection of **functionality and design**. To me
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=jm47okjk&show_icons=true&theme=transparent&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&hide_border=true" alt="GitHub stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm47okjk&layout=compact&theme=transparent&title_color=00F7FF&text_color=ffffff&hide_border=true" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jm47okjk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm47okjk&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
