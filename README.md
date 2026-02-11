@@ -79,10 +79,3 @@ Busco unir **arquitetura limpa**, **performance** e **design moderno** para entr
 
 </div>
 
----
-
-<div align="center">
-
-### ⚡ *"Code with vision. Build with purpose."*
-https://spotify-github-profile.kittinanx.com
-</div>
