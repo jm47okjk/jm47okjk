@@ -49,15 +49,17 @@ I am a student exploring the intersection of **functionality and design**. I foc
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jm47okjk&show_icons=true&theme=tokyonight&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jm47okjk&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=00F7FF&fire=00F7FF" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jm47okjk&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=00F7FF&fire=00F7FF" />
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jm47okjk&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00F7FF" />
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
