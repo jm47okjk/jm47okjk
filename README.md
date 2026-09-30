@@ -50,7 +50,11 @@ I am a student exploring the intersection of **functionality and design**. I foc
 
 <div align="center">
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jm47okjk&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=00F7FF&fire=00F7FF" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jm47okjk/jm47okjk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jm47okjk/jm47okjk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jm47okjk/jm47okjk/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <br/>
