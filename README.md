@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<div align="center">
+<div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+with+purpose;Crafting+digital+experiences;Open+source+enthusiast" alt="Typing SVG" />
 </div>
 
